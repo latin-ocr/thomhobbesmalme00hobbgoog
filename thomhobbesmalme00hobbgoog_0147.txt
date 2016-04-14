@@ -1,0 +1,43 @@
+136 aux uuraauarrcs.
+
+movea- ΒΗ est tangens 30 graduum, eademque dimidia
+¹⁴ ³¹¹· secantis AH: et sunt ΑΗ, DL parallelae.
+
+AT est duae tertiae semilateris AB: id est, nna
+tertia totius lateris AB. Itaque juncta NT, et pro·
+ducta ad latus BG in q, transibit per G: et erit aq
+tertia pars totius rectoe BL. Quoniam enim AT est
+tertia pars lateris AD, et producta ND determinat
+IM tria semilatera: producta NT determinabit
+unum semilatus IG. Quare et Bq erit tertia para
+totius BL. Praeterea, Fq est tertia pars BH: uam
+ut BT ad TG, ita est Fq ad GF, propter triangula
+GFQ, GET similia.
+
+· Hactenus constructio, et ea quae ex constructione
+sequuntur immediate, et maxime manifesta. Venio
+ad theoremata difficiliora.
+
+PROPOSITIO 1.
+
+Recta quoe delcitur a puncto N transibitque interA
+ct Τ, dividit rectam AT, et arcum BG, errectos
+IG, Bq in rationes cauden.
+
+Super rectam AT describatur arcus quadrantis
+ST. Cum ergo AT sit tertia pars lateris AD, erit
+arcus ST tertia pars arcus BD, id est, aequalis arcui
+BG. Quare si puncta S et T intelligatur ferri per
+rectas AB et TG ad puuctaB et G, terminabitur
+iuter illa arcus ST. Similiter, sit ΑΖ semissis AT,
+et YZ arcus quadrantalis. Brit igitur arcus YZ
+aequalis semissi arcus BG. Secetur arcus BG bifa-
+riam in h, ducaturque sinus ejus ab. Erunt igitur
+AZ, ab parallelae: et quia ab, sinus dimidii arcus
+BG, est aequalis, ut notissimum est, dimidiae chorda
+BG, producta ah ut sit sui ipsius dupla, occurret
+rectae NG productae in k, propterea quod AT eet
+dupla AZ.
+
+ 
+
